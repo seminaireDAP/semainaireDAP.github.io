@@ -1,0 +1,44 @@
+# jemdoc: menu{MENU}{index.html}, addcss{person.css}, addcss{bibtex.css}, title{séminaire DAP - Modal'X} nofooter
+# jemdoc: nodefaultcss, addcss{jemdoc.css}{jacob.css}
+#include{toggle_bibtex.jemdoc}
+
+= Séminaire Doctorants, Aters et Postdocs - DAP Modal'X
+~~~
+{}{img_left}{images/logo_dap.jpg}{dap}{width="50" height="50" border="0"  align="left"}
+~~~
+== DAP - Modal'X
+
+=== Préface\n
+Bienvenue sur le site web du séminaire DAP! Le séminaire DAP a lieu le *+\vendredi de 10h à 12h+* environ toutes les deux semaines, à l'[http://www.parisnanterre.fr Université Paris Nanterre], au laboratoire [http://modalx.u-paris10.fr/modelisation-aleatoire/presentation/site-du-centre-de-recherche-modal-x--48986.kjsp Modal'X ] du département de Mathématiques et Informatiques. 
+Les exposés sont sous forme de mini-cours d'introduction aux sujets de recherche des personnes invitées.
+Ils durent environ deux heures questions comprises.
+Les sujets mathématiques abordées sont variés; Probabilités, Statistiques, etc,.
+
+=== Organisateurs 
+#~~~
+[mokhtarzahdi.alaya@gmail.com Mokhtar Z. Alaya] et [pauldebuyer@hotmail.fr Paul De Bruyer]
+#~~~
+
+== Programmes
+
+~~~
+*+Vendredi 24 novembre 2017+*\n
+[http://debuyer.perso.math.cnrs.fr Paul De Bruyer], Modal'X Université Paris Nanterre: *Un lien entre marches aléatoires, inégalités fonctionnelles et inégalités isopérimétriques, Partie II*.
+~~~
+
+~~~
+*+Vendredi 17 novembre 2017+*\n
+[http://debuyer.perso.math.cnrs.fr Paul De Bruyer], Modal'X Université Paris Nanterre: *Un lien entre marches aléatoires, inégalités fonctionnelles et inégalités isopérimétriques, Partie I*.
+~~~
+
+
+
+=== Addresse \n
+Modal'X  \n
+Bâtiment G \n
+Université Paris Nanterre \n
+200 avenue de la République \n
+92000 Nanterre Cedex
+~~~
+{}{img_left}{images/logo_nanterre.jpg}{upn}{width="50" height="50" border="0"  align="left"}
+~~~

@@ -2,11 +2,12 @@
 # jemdoc: nodefaultcss, addcss{jemdoc.css}{jacob.css}
 #include{toggle_bibtex.jemdoc}
 
+
 = Séminaire Doctorants, Aters et Postdocs - DAP Modal'X
 ~~~
-{}{img_left}{images/logo_dap.jpg}{dap}{width="50" height="50" border="0"  align="left"}
+{}{img_left}{images/logo_dap.jpg}{dap}{width="200" height="100" border="5"  align="left"}
 ~~~
-== DAP - Modal'X
+
 
 === Préface\n
 Bienvenue sur le site web du séminaire DAP! Le séminaire DAP a lieu le *+\vendredi de 10h à 12h+* environ toutes les deux semaines, à l'[http://www.parisnanterre.fr Université Paris Nanterre], au laboratoire [http://modalx.u-paris10.fr/modelisation-aleatoire/presentation/site-du-centre-de-recherche-modal-x--48986.kjsp Modal'X ] du département de Mathématiques et Informatiques. 

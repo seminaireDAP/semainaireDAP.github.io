@@ -24,13 +24,41 @@ Les sujets mathématiques abordées sont variés; Probabilités, Statistiques, e
 == Programme
 
 ~~~
+*+Mardi 13 mars 2018+*\n
+[http://mzalaya.free.fr Mokhtar Z. Alaya], Modal'X Université Paris Nanterre: *Statistique en grande dimension: quelques aspects théoriques et algorithmiques (Partie IV)*.
+
+- Validation croisée
+- TP sous Python #(traitement d'un jeux de données )
+
+~~~
+
+~~~
+*+Mardi 6 mars 2018+*\n
+[http://mzalaya.free.fr Mokhtar Z. Alaya], Modal'X Université Paris Nanterre: *Statistique en grande dimension: quelques aspects théoriques et algorithmiques (Partie III)*.
+
+- Inégalités oracles (IO): IO pour l'estimateur Lasso dans un modèle de régression simple et additif
+
+- optimisation convexe: sous gradient, sous différentielle, théorème de Fermat, opérateur proximal
+
+- algorithmes proximaux: ISTA (Iterative Shrinkage-Thresholding Algorithm) et FISTA (Fast ISTA)
+
+~~~
+
+~~~
 *+Mardi 13 février 2018+*\n
 [http://mzalaya.free.fr Mokhtar Z. Alaya], Modal'X Université Paris Nanterre: *Statistique en grande dimension: quelques aspects théoriques et algorithmiques (Partie II)*.
+
+- Fléau de la dimension
+- Minimisation d'un critère empirique pénalisé
+- Estimateur Lasso et ses dérivées: Ridge, Elastic Net, Adaptive Lasso, Fused Lasso, Group Lasso
 ~~~
 
 ~~~
 *+Mardi 6 février 2018+*\n
 [http://mzalaya.free.fr Mokhtar Z. Alaya], Modal'X Université Paris Nanterre: *Statistique en grande dimension: quelques aspects théoriques et algorithmiques (Partie I)*.
+
+- Rappel: modélisation statistique, maximum de vraisemblance, estimateur, bias, variance, risque quadratique, dilemme bias-variance
+- Modèle de régression gaussien
 ~~~
 
 ~~~
